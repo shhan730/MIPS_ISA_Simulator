@@ -1,13 +1,3 @@
-/***************************************************************/
-/*                                                             */
-/*   MIPS-32 Instruction Level Simulator                       */
-/*                                                             */
-/*   SCE212 Ajou University                                    */
-/*   parse.c                                                   */
-/*   Adapted from CS311@KAIST                                  */
-/*                                                             */
-/***************************************************************/
-
 #include <stdio.h>
 #include <string.h>
 

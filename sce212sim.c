@@ -1,18 +1,3 @@
-/***************************************************************/
-/*                                                             */
-/*   MIPS-32 Instruction Level Simulator                       */
-/*                                                             */
-/*   SCE212 Ajou University                                    */
-/*   sce212.c                                                  */
-/*   Adapted from CS311@KAIST                                  */
-/*                                                             */
-/***************************************************************/
-
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-/*          DO NOT MODIFY THIS FILE!                            */
-/*          You should only the parse.c and run.c files!        */
-/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
 #include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
